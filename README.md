@@ -3,6 +3,8 @@ Cake AddIn which copies files based on Git log.
 
 ## Example usage
 ```cs
+#addin Cake.GitPackager
+
 GitPackager(
     "C:\project\sample",
     new Dictionary<string, string>()
