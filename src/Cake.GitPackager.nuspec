@@ -3,7 +3,7 @@
   <metadata>
     <id>Cake.GitPackager</id>
     <title>Cake.GitPackager</title>
-    <version>0.2.0</version>
+    <version>0.1.1</version>
     <authors>Ilya Verbitskiy</authors>
     <owners>Ilya Verbitskiy</owners>
     <description>Cake AddIn which copies files based on Git log.</description>
