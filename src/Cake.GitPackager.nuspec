@@ -3,7 +3,7 @@
   <metadata>
     <id>Cake.GitPackager</id>
     <title>Cake.GitPackager</title>
-    <version>0.1.1</version>
+    <version>0.1.2.1</version>
     <authors>Ilya Verbitskiy</authors>
     <owners>Ilya Verbitskiy</owners>
     <description>Cake AddIn which copies files based on Git log.</description>
@@ -11,7 +11,7 @@
     <projectUrl>https://github.com/ilich/Cake.GitPackager</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <copyright>Copyright © 2016 Ilya Verbitskiy</copyright>
+    <copyright>Copyright © 2017 Ilya Verbitskiy</copyright>
     <tags>Cake Git Deployment</tags>
   </metadata>
   <files>
@@ -23,11 +23,11 @@
     <file src="Cake.GitPackager/bin/Release/LibGit2Sharp.dll.config" />
     <file src="Cake.GitPackager/bin/Release/LibGit2Sharp.pdb" />
     <file src="Cake.GitPackager/bin/Release/LibGit2Sharp.xml" />
-    <file src="Cake.GitPackager/bin/Release/lib/linux/x86_64/libgit2-baa87df.so" target="lib/linux/x86_64" />
-    <file src="Cake.GitPackager/bin/Release/lib/osx/libgit2-baa87df.dylib" target="lib/osx" />
-    <file src="Cake.GitPackager/bin/Release/lib/win32/x64/git2-baa87df.dll" target="lib/win32/x64" />
-    <file src="Cake.GitPackager/bin/Release/lib/win32/x64/git2-baa87df.pdb" target="lib/win32/x64" />
-    <file src="Cake.GitPackager/bin/Release/lib/win32/x86/git2-baa87df.dll" target="lib/win32/x86" />
-    <file src="Cake.GitPackager/bin/Release/lib/win32/x86/git2-baa87df.pdb" target="lib/win32/x86" />
+    <file src="Cake.GitPackager/bin/Release/lib/linux/x86_64/libgit2-15e1193.so" target="lib/linux/x86_64" />
+    <file src="Cake.GitPackager/bin/Release/lib/osx/libgit2-15e1193.dylib" target="lib/osx" />
+    <file src="Cake.GitPackager/bin/Release/lib/win32/x64/git2-15e1193.dll" target="lib/win32/x64" />
+    <file src="Cake.GitPackager/bin/Release/lib/win32/x64/git2-15e1193.pdb" target="lib/win32/x64" />
+    <file src="Cake.GitPackager/bin/Release/lib/win32/x86/git2-15e1193.dll" target="lib/win32/x86" />
+    <file src="Cake.GitPackager/bin/Release/lib/win32/x86/git2-15e1193.pdb" target="lib/win32/x86" />
   </files>
 </package>
